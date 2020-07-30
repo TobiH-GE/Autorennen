@@ -27,7 +27,7 @@ namespace Autorennen
             }
             set
             {
-                this.Geschwindigkeit = NeueGeschindigkeit;
+                Geschwindigkeit = value;
             }
 
         }
