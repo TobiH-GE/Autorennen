@@ -17,7 +17,7 @@ namespace Autorennen
             Jeep.ZeigeDaten();
 
             Audi.NeueGeschindigkeit = 20;
-            Jeep.NeueGeschindigkeit = 30;
+            Jeep.NeueGeschindigkeit = 50;
 
             Audi.ZeigeDaten();
             Jeep.ZeigeDaten();
